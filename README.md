@@ -13,7 +13,6 @@
 
 
 ![[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZidiEya&layout=compact)](https://github.com/ZidiEya/github-readme-stats)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ZidiEya&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZidiEya&layout=compact)](https://github.com/ZidiEya/github-readme-stats)
 
 
                                                        Languages and Tools
