@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **3805@holbertonschool.com**
 
-- Connect with me   <a href="https://linkedin.com/in/eya zidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya zidi" height="20" width="30" /></a>
+- Connect with me   <a href="https://www.linkedin.com/in/eya-zidi-b5b985221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya zidi" height="20" width="30" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZidiEya&layout=compact)](https://github.com/ZidiEya/github-readme-stats)
