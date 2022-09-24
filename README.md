@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eya zidi</h1>
-<h3 align="center">Software engineering student at Holberton school</h3>
+<h3 align="center">student at Holberton school</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidieya&label=Profile%20views&color=0e75b6&style=flat" alt="zidieya" /> </p>
 
