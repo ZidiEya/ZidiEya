@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@3805](https://medium.com/@3805)
 
-- 📫 How to reach me **3805@holbertonschool.com**
+- 📫 How to reach me **3805@holbertonstudents.com**
 
 - Connect with me   <a href="https://www.linkedin.com/in/eya-zidi-b5b985221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eya zidi" height="20" width="30" /></a>
 
