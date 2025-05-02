@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Eya Zidi**!  
 ### 🚀 **Creative Technologist | Storyteller | Advocate**  
 
-![Banner](https://your-image-link-here.com)
+
 
 ## 🔥 About Me  
 Passionate about **visual storytelling**, **advocacy-driven communication**, and **technical refinement**, I blend creativity with innovation to make an impact.  
